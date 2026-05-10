@@ -1,13 +1,13 @@
 background_color             :#FFFFFF
-company_title_text           :Evil Portal Generator
+company_title_text           :BCBE
 company_title_color          :black
-container_background_color   :#FFFFFF
-container_title_text         :Sign in to fake Github
+container_background_color   :#000080
+container_title_text         :Sign in to bcbe school account
 container_title_color        :#000000
-container_subtitle_text      :Use your account
+container_subtitle_text      :Use your school account
 container_subtitle_color     :#000000
 submit_btn_background_color  :#000000
-submit_btn_text              :SEND CREDENTIALS
+submit_btn_text              :SIGN IN
 submit_btn_text_color        :white
 forgot_credentials           :true
 forgot_credentials_text      :Forgot password?
