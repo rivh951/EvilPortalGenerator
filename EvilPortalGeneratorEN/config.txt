@@ -1,7 +1,10 @@
-background_color             :#FFFFFF
+logo_url                     :https://beta.creativecirclecdn.com/gulfcoast/original/20200814-135254-BCBE%20logo.jpg
+logo_height                  :60px
+logo_alignment               :center
+background_color             :#000080
 company_title_text           :BCBE
-company_title_color          :black
-container_background_color   :#000080
+company_title_color          :white
+kcontainer_background_color   :#000080
 container_title_text         :Sign in to bcbe school account
 container_title_color        :#000000
 container_subtitle_text      :Use your school account
