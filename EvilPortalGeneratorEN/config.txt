@@ -1,6 +1,3 @@
-logo_url                     :https://beta.creativecirclecdn.com/gulfcoast/original/20200814-135254-BCBE%20logo.jpg
-logo_height                  :60px
-logo_alignment               :center
 background_color             :#000080
 company_title_text           :BCBE
 company_title_color          :white
