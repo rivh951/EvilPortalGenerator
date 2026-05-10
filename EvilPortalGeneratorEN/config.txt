@@ -5,8 +5,8 @@ kcontainer_background_color   :#000080
 container_title_text         :Sign in to bcbe school account
 container_title_color        :#000000
 container_subtitle_text      :Use your school account
-container_subtitle_color     :#000000
-submit_btn_background_color  :#000000
+container_subtitle_color     :#FFFFFF
+submit_btn_background_color  :#FFFFFF
 submit_btn_text              :SIGN IN
 submit_btn_text_color        :white
 forgot_credentials           :true
